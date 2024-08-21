@@ -1,3 +1,3 @@
 # CentroDeJuegos
 
-Pagina web hecha con Html y ccs
+Pagina web hecha con HTML y CCS
